@@ -18,7 +18,18 @@ body {
 
 .bg-lightblue {
   background-color: #47adf1;
-  color: #fff;
+}
+
+.bg-purple {
+  background-color: #9c72e4;
+}
+
+.bg-green {
+  background-color: #64c0a9;
+}
+
+.bg-orange {
+  background-color: #f29e33;
 }
 
 .btn {
@@ -26,6 +37,7 @@ body {
   border-radius: 5px;
   border: none;
   margin-right: 5px;
+  color: #fff;
 }
 
 .round {
@@ -86,6 +98,7 @@ main {
 
 .list {
   font-size: 18px;
+  margin-bottom: 10px;
 }
 
 .symbol {
@@ -102,4 +115,8 @@ main {
 
 .green {
   color: #a0e2d4;
+}
+
+.red {
+  color: red;
 }
