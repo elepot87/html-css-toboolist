@@ -1,0 +1,31 @@
+/* General styles*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: #f6f8f9;
+}
+
+/* Utilities */
+
+.bg-white {
+  background: #fff;
+}
+
+/* Header */
+
+header {
+  padding: 15px 20px;
+}
+.logo {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+.logo-text {
+  font-size: 35px;
+  font-weight: 700;
+}
