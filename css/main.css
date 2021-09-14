@@ -67,3 +67,28 @@ main {
   color: #e5e8ea;
   border: 1px solid #e5e8ea;
 }
+
+.item-task {
+  margin-top: 20px;
+  color: #484c55;
+}
+.timing {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.list {
+  font-size: 18px;
+}
+
+.symbol {
+  border: 1px solid;
+  border-radius: 50px;
+  padding: 1px;
+  width: 15px;
+  display: inline-block;
+  text-align: center;
+  size: 10%;
+  font-size: 10px;
+}
