@@ -13,9 +13,13 @@ body {
 /* Utilities */
 
 .bg-white {
-  background: #fff;
+  background-color: #fff;
 }
 
+.bg-lightblue {
+  background-color: #47adf1;
+  color: #fff;
+}
 /* Header */
 
 header {
@@ -28,4 +32,38 @@ header {
 .logo-text {
   font-size: 35px;
   font-weight: 700;
+}
+
+.btn {
+  padding: 7px 12px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 5px;
+}
+
+hr {
+  color: #e5e8ea;
+  border: none;
+  border-top: 1px solid #e5e8ea;
+  margin-top: 10px;
+  padding: 0;
+}
+
+section {
+  padding: 20px 45px;
+}
+/* Main */
+main {
+  margin: 50px auto 10px auto;
+  width: 75%;
+  border-radius: 3px;
+}
+
+.section-button {
+  padding-bottom: 0px;
+}
+
+.add {
+  color: #e5e8ea;
+  border: 1px solid #e5e8ea;
 }
