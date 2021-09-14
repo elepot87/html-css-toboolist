@@ -78,6 +78,7 @@ hr {
 section {
   padding: 20px 45px;
 }
+
 /* Main */
 main {
   margin: 50px auto 10px auto;
@@ -106,7 +107,7 @@ main {
 
 .list {
   font-size: 18px;
-  margin-bottom: 10px;
+  margin: 10px 0 14px 0;
 }
 
 .symbol {
