@@ -32,6 +32,14 @@ body {
   background-color: #f29e33;
 }
 
+.bg-pink {
+  background-color: #d863a1;
+}
+
+.bg-light-green {
+  background-color: #b0c926;
+}
+
 .btn {
   padding: 7px 12px;
   border-radius: 5px;
