@@ -75,7 +75,6 @@ hr {
   border: none;
   border-top: 1px solid #e5e8ea;
   margin-top: 10px;
-  padding: 0;
 }
 
 section {
@@ -105,12 +104,16 @@ main {
 .timing {
   font-size: 22px;
   font-weight: 700;
-  margin-bottom: 10px;
 }
 
-.list {
+li {
+  list-style-type: none;
   font-size: 18px;
   margin: 10px 0 14px 0;
+}
+
+li:first-child {
+  margin-top: 14px;
 }
 
 .symbol {
@@ -131,5 +134,5 @@ main {
 
 .red {
   color: red;
-  line-height: 14px;
+  line-height: 13px;
 }
